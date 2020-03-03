@@ -44,7 +44,7 @@ Requires [Homebrew](https://brew.sh/) to install. I am hoping to be included in
 Homebrew Core soon!
 
 ```
-brew tap rhyeal/aws-rotate-iam-keys https://github.com/rhyeal/aws-rotate-iam-keys
+brew tap lalilo/aws-rotate-iam-keys https://github.com/lalalilo/aws-rotate-iam-keys
 brew install aws-rotate-iam-keys
 ```
 
